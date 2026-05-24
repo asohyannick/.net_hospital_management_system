@@ -145,6 +145,16 @@ _TeamCity*
 
 # DotCover is a Code Coverage Tool
 *.dotCover
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+.runsettings
+.editorconfig
+PARALLEL_TEST_EXECUTION.md
+TESTCONTAINERS_IMPLEMENTATION.md
+LICENSE
+icon.png
+global.json
+
 
 # AxoCover is a Code Coverage Tool
 .axoCover/*
